@@ -91,10 +91,44 @@ Here are some of my featured projects:
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiago0507&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago0507&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tiago0507&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiago0507&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago0507&layout=compact&theme=tokyonight&hide_border=true&hide=xslt,html,css,jupyter%20notebook,dockerfile,shell&langs_count=8&custom_title=Most%20Used%20Languages" width="55%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiago0507&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tiago0507&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Tiago0507)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiago0507&theme=tokyonight" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiago0507&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiago0507&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tiago0507&theme=tokyonight&utcOffset=8" width="32%" />
+
+</div>
 
 ---
 
