@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I'm passionate about technology and currently in my 8th semester of Systems and Telematics Engineering. I specialize in **backend development**, and I'm diving deep into the world of **DevOps** and **Cloud Computing**.
+I'm passionate about technology and currently in my 9th semester of Systems and Telematics Engineering. I specialize in **backend development**, and I'm diving deep into the world of **DevOps** and **Cloud Computing**.
 
 I enjoy building solid, scalable systems, learning about infrastructure automation, and keeping things clean and efficient — both in code and deployments.
 
