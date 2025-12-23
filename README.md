@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Systems and Telematics Engineering Student at <strong>Universidad Icesi</strong><br>
-☁️ Aspiring <strong>DevOps Engineer</strong> | <strong>Cloud Engineer</strong> | <strong>Backend Developer</strong><br>
+☁️ <strong>DevOps Engineer</strong> | <strong>Cloud Engineer</strong> | <strong>Backend Developer</strong><br>
 🌍 Based in Cali, Colombia
 </p>
 
