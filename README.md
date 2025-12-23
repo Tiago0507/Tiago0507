@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Santiago Valencia García</h1>
 
 <p align="center">
-🎓 Systems and Telematics Engineering Student at <strong>Universidad ICESI</strong><br>
+🎓 Systems and Telematics Engineering Student at <strong>Universidad Icesi</strong><br>
 ☁️ Aspiring <strong>DevOps Engineer</strong> | <strong>Cloud Engineer</strong> | <strong>Backend Developer</strong><br>
 🌍 Based in Cali, Colombia
 </p>
@@ -22,9 +22,7 @@ I enjoy building solid, scalable systems, learning about infrastructure automati
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -38,23 +36,16 @@ I enjoy building solid, scalable systems, learning about infrastructure automati
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
 ### 🚀 DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
 ---
@@ -74,10 +65,7 @@ Here are some of my featured projects:
 ## 🌱 Currently Learning
 
 - ☁️ Cloud Platforms (AWS, Azure)
-- 🛠️ Infrastructure as Code (Terraform, Ansible)
-- 🧪 CI/CD (Jenkins, GitHub Actions)
-- 🗣️ English B1–B2 (Preparing for IELTS)
-- 🇩🇪 German A1
+- 🛠️ Kubernetes
 
 ---
 
@@ -85,7 +73,6 @@ Here are some of my featured projects:
 
 - ✅ Become a **Certified Cloud/DevOps Engineer**
 - 🚀 Build and contribute to open-source DevOps tools
-- 💼 Launch my professional portfolio (coming soon!)
 
 ---
 
