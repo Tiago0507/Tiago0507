@@ -67,8 +67,6 @@ I care about writing software that's solid, easy to scale, and even easier to de
 <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" title="Prometheus" alt="Prometheus" width="60" height="60" />
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="60" height="60" />
 <img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" width="60" height="60" />
-<img src="https://skillicons.dev/icons?i=sonarqube&theme=light" title="SonarQube" alt="SonarQube" width="60" height="60" />
-
 </div>
 
 <br/>
