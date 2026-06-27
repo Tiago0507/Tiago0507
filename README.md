@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Santiago%20Valencia%20Garc%C3%ADa&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20%26%20DevOps%20Engineer%20%7C%20Cali%2C%20Colombia&descAlignY=60&descSize=20" width="100%"/>
-
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+World!;%C2%A1Hola%2C+Mundo!;Bonjour+le+Monde!;Ol%C3%A1%2C+Mundo!;Hallo%2C+Welt!;Ciao%2C+Mondo!;%E4%B8%96%E7%95%8C%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=2000&pause=600&color=7AA2F7&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+World!;%C2%A1Hola%2C+Mundo!;Bonjour+le+Monde!;Ol%C3%A1%2C+Mundo!;Hallo%2C+Welt!;Ciao%2C+Mondo!;%E4%B8%96%E7%95%8C%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!" alt="Typing SVG" />
 </div>
+
+<h2 align="center">I'm Santiago Valencia García</h2>
+<p align="center">Software Systems & Telematics Engineer</p>
 
 <br/>
 
@@ -24,25 +23,45 @@ I care about writing software that's solid, easy to scale, and even easier to de
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
 
 <br/>
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,nextjs,react,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" />
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" alt="NestJS" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
 
 <br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" />
 
 <br/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,azure,terraform,ansible,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" alt="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" title="Azure" alt="Azure" />
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" title="Terraform" alt="Terraform" />
+<img src="https://skillicons.dev/icons?i=ansible&theme=dark" title="Ansible" alt="Ansible" />
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" title="Jenkins" alt="Jenkins" />
 
 </div>
 
@@ -96,4 +115,3 @@ I care about writing software that's solid, easy to scale, and even easier to de
   <img src="https://komarev.com/ghpvc/?username=Tiago0507&color=7AA2F7&style=flat-square&label=visitors" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%"/>
