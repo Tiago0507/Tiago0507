@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=2000&pause=600&color=7AA2F7&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+World!;%C2%A1Hola%2C+Mundo!;Bonjour+le+Monde!;Ol%C3%A1%2C+Mundo!;Hallo%2C+Welt!;Ciao%2C+Mondo!;%E4%B8%96%E7%95%8C%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=2000&pause=2000&color=7AA2F7&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+World!;%C2%A1Hola%2C+Mundo!;Bonjour+le+Monde!;Ol%C3%A1%2C+Mundo!;Hallo%2C+Welt!;Ciao%2C+Mondo!;%E4%B8%96%E7%95%8C%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!" alt="Typing SVG" />
 </div>
 
 <h2 align="center">I'm Santiago Valencia García</h2>
