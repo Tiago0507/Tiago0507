@@ -17,7 +17,7 @@ I care about writing software that's solid, easy to scale, and even easier to de
 
 <br/>
 
-## Stack
+## Tech Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@ I care about writing software that's solid, easy to scale, and even easier to de
 
 <br/>
 
-## Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tiago0507&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
