@@ -11,7 +11,7 @@
 
 I develop software and automate infrastructure. From building full-stack applications to designing CI/CD pipelines, containerizing services, and treating infrastructure as code.
 
-I care about writing software that's solid, easy to scale, and even easier to deploy. I'm always learning, always improving, and always looking for a better way to do things.
+I care about writing software that's solid, easy to scale, and even easier to deploy. I'm constantly learning and improving, always looking for a better way to build things.
 
 > 🏊 🏋️ 🥾 I love swimming, working out and hiking. Those are my ways of disconnecting.
 
@@ -67,7 +67,7 @@ I care about writing software that's solid, easy to scale, and even easier to de
 <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" title="Prometheus" alt="Prometheus" width="60" height="60" />
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="60" height="60" />
 <img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" width="60" height="60" />
-<img src="https://skillicons.dev/icons?i=sonarqube&theme=dark" title="SonarQube" alt="SonarQube" width="60" height="60" />
+<img src="https://skillicons.dev/icons?i=sonarqube&theme=light" title="SonarQube" alt="SonarQube" width="60" height="60" />
 
 </div>
 
