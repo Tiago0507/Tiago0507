@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">I'm Santiago Valencia García</h2>
-<p align="center">Software Systems & Telematics Engineer</p>
+<h3 align="center">Software Systems & Telematics Engineer</h3>
 
 <br/>
 
@@ -13,7 +13,7 @@ I develop software and automate infrastructure. From building full-stack applica
 
 I care about writing software that's solid, easy to scale, and even easier to deploy.
 
-> I love swimming and working out. That's my way of disconnecting.
+> 🏊 🏋️ I love swimming and working out. That's my way of disconnecting.
 
 <br/>
 
@@ -23,50 +23,50 @@ I care about writing software that's solid, easy to scale, and even easier to de
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
-<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" height="55" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" height="55" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" height="55" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" height="55" />
 
 <br/>
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" />
-<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" alt="NestJS" />
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" />
-<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" />
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask" />
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" height="55" />
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" alt="NestJS" height="55" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" height="55" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" height="55" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" height="55" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" height="55" />
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask" height="55" />
 
 <br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" height="55" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" height="55" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" height="55" />
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" height="55" />
 
 <br/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" />
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" alt="Kubernetes" />
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" />
-<img src="https://skillicons.dev/icons?i=azure&theme=dark" title="Azure" alt="Azure" />
-<img src="https://skillicons.dev/icons?i=terraform&theme=dark" title="Terraform" alt="Terraform" />
-<img src="https://skillicons.dev/icons?i=ansible&theme=dark" title="Ansible" alt="Ansible" />
-<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" title="Jenkins" alt="Jenkins" />
-<img src="https://skillicons.dev/icons?i=grafana&theme=dark" title="Grafana" alt="Grafana" />
-<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" title="Prometheus" alt="Prometheus" />
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" />
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" height="55" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" height="55" />
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" height="55" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" height="55" />
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" alt="Kubernetes" height="55" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" height="55" />
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" title="Azure" alt="Azure" height="55" />
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" title="Terraform" alt="Terraform" height="55" />
+<img src="https://skillicons.dev/icons?i=ansible&theme=dark" title="Ansible" alt="Ansible" height="55" />
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" title="Jenkins" alt="Jenkins" height="55" />
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" title="Grafana" alt="Grafana" height="55" />
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" title="Prometheus" alt="Prometheus" height="55" />
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" height="55" />
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" height="55" />
 
 </div>
 
