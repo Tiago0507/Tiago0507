@@ -38,6 +38,7 @@ I care about writing software that's solid, easy to scale, and even easier to de
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" />
 <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" />
 <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask" />
 
 <br/>
 
@@ -62,6 +63,10 @@ I care about writing software that's solid, easy to scale, and even easier to de
 <img src="https://skillicons.dev/icons?i=terraform&theme=dark" title="Terraform" alt="Terraform" />
 <img src="https://skillicons.dev/icons?i=ansible&theme=dark" title="Ansible" alt="Ansible" />
 <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" title="Jenkins" alt="Jenkins" />
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" title="Grafana" alt="Grafana" />
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" title="Prometheus" alt="Prometheus" />
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" />
 
 </div>
 
