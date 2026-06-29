@@ -107,15 +107,15 @@ I care about writing software that's solid, easy to scale, and even easier to de
 
 <div align="center">
   <a href="mailto:svalenciagarcia707@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" align="middle" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/santiago-valencia-garc%C3%ADa-aab591251/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" align="middle" />
   </a>
   &nbsp;
   <a href="https://santiagovg.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge" alt="Portfolio" align="middle" />
   </a>
 </div>
 
