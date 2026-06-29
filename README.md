@@ -115,7 +115,7 @@ I care about writing software that's solid, easy to scale, and even easier to de
   </a>
   &nbsp;
   <a href="https://santiagovg.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge" alt="Portfolio" height="48" />
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge" alt="Portfolio" />
   </a>
 </div>
 
