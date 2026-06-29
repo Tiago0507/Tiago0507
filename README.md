@@ -19,6 +19,8 @@ I care about writing software that's solid, easy to scale, and even easier to de
 
 ## Tech Stack
 
+<p align="center">Technologies and tools I've worked with</p>
+
 <div align="center">
 
 **Languages**
@@ -110,6 +112,10 @@ I care about writing software that's solid, easy to scale, and even easier to de
   &nbsp;
   <a href="https://www.linkedin.com/in/santiago-valencia-garc%C3%ADa-aab591251/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" />
+  </a>
+  &nbsp;
+  <a href="https://santiagovg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge" alt="Portfolio" height="48" />
   </a>
 </div>
 
