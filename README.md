@@ -13,7 +13,7 @@ I develop software and automate infrastructure. From building full-stack applica
 
 I care about writing software that's solid, easy to scale, and even easier to deploy. I'm constantly learning and improving, always looking for a better way to build things.
 
-> 🏊 🏋️ 🥾 I love swimming, working out and hiking. Those are my ways of disconnecting.
+> 🏊 🏋️ 🥾 🏍️ I love swimming, working out, hiking and riding motorcycles. Those are my ways of disconnecting.
 
 <br/>
 
@@ -76,12 +76,12 @@ I care about writing software that's solid, easy to scale, and even easier to de
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiago0507&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-psi-one-61.vercel.app/api?username=Tiago0507&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiago0507&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago0507&layout=compact&theme=tokyonight&hide_border=true&hide=xslt,html,css,shell,dockerfile&langs_count=6" height="145" />
+  <img src="https://github-readme-stats-psi-one-61.vercel.app/api/top-langs/?username=Tiago0507&layout=compact&theme=tokyonight&hide_border=true&hide=xslt,html,css,shell,dockerfile&langs_count=6" height="145" />
 </div>
 
 <br/>
